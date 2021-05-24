@@ -6,7 +6,7 @@ Nosso produto tem em vista ajudar na ventilação de localidades as quais necess
 ## Software Desenvolvido:
 Fizemos o uso do Arduino IDE, software que possui estrutura de programação chamada Sketch e é derivada das linguagens C e C++, para informações mais detalhadas e para seu download, segue o link: <a href="https://www.arduino.cc/en/software"> Arduino IDE. </a>
 <br>
-Para o uso do Protocolo Firmata utilizamos o software Node-RED, a qual é uma ferramenta de desenvolvimento, serve para conectar e gerar interação entre dispositivos de Hardware e ele também permite interação de serviços online APIs, para informações mais detalhadas, segue o link: <a href="https://nodered.org/"> Node-RED. </a>
+Fizemos também o uso do Protocolo Firmata para podermos utilizar o software Node-RED, a qual é uma ferramenta de desenvolvimento, a qual serve para conectar e gerar interação entre dispositivos de Hardware e ele também permite interação de serviços online APIs, para informações mais detalhadas, segue o link: <a href="https://nodered.org/"> Node-RED. </a>
 
 ## Hardwares utilizados:
 | Quantidade | Componente |
