@@ -1,9 +1,11 @@
-# Projeto-Objetos
+# Projeto Objetos Inteligentes Conectados
 
 ## Descrição do Produto:
 Nosso produto tem em vista ajudar na ventilação de localidades as quais necessitam de boa refrigeração, como por exemplo hospitais, restaurantes e outros locais que possuam essa mesma necessidade de refrigeração. Ele funcionára com a ativação por meio do protocolo Firmata, fazendo com que a partir da comunicação de um software com seus microcontroladores seja possível o controle desse sistema de refrigeração.
 
 ## Software Desenvolvido:
+Fizemos o uso do Arduino IDE, software que possui estrutura de programação chamada Sketch e é derivada das linguagens C e C++, para informações mais detalhadas e para seu download, segue o link: <a href="https://www.arduino.cc/en/software"> Arduino IDE </a>
+Para o uso do Protocolo Firmata utilizamos o software Node-RED, a qual é uma ferramenta de desenvolvimento, serve para conectar e gerar interação entre dispositivos de Hardware e ele também permite interação de serviços online APIs, para informações mais detalhadas, segue o link: <a href="https://nodered.org/"> Node-RED </a>
 
 ## Hardwares utilizados:
 | Quantidade | Componente |
