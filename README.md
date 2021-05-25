@@ -25,3 +25,6 @@ Fizemos também o uso do Protocolo Firmata para podermos utilizar o software Nod
 
 ## Interfaces, Protocolos e Módulos de comunicação:
 
+## Contatos
+Bruno Kenzo Sakemi TIA: 31945600 email: 31945600@mackenzista.com.br
+Eduardo Atanes Garabedian TIA: 31949886 email: 31949886@mackenzista.com.br
