@@ -28,8 +28,13 @@ Através do Protocolo Firmata por meio do software Node-RED tentamos fazer nosso
 ### Standard Firmata
 <p align= "center">
   <img src ="firmata.png">
+  <p>
+  <br>
 ### Node-RED
-
+<p align= "center">
+  <img src ="nodered.png">
+  <p>
+    
 ## YouTube
 Para visualizar nosso projeto em funcionamento, segue o link:<a href="https://www.arduino.cc/en/software"> Projeto. </a>
 
