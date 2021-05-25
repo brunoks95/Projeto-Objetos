@@ -25,6 +25,9 @@ Fizemos também o uso do Protocolo Firmata para podermos utilizar o software Nod
 
 ## Interfaces, Protocolos e Módulos de comunicação:
 
+## YouTube
+Para visualizar nosso projeto em funcionamento, segue o link:<a href="https://www.arduino.cc/en/software"> Projeto. </a>
+
 ## Contatos
-Bruno Kenzo Sakemi TIA: 31945600 email: 31945600@mackenzista.com.br
+Bruno Kenzo Sakemi TIA: 31945600 email: 31945600@mackenzista.com.br <br>
 Eduardo Atanes Garabedian TIA: 31949886 email: 31949886@mackenzista.com.br
