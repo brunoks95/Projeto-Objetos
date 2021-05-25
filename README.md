@@ -37,7 +37,7 @@ Através do Protocolo Firmata por meio do software Node-RED tentamos fazer nosso
   <p>
     
 ## YouTube
-Para visualizar nosso projeto em funcionamento, segue o link:<a href="https://www.arduino.cc/en/software"> Projeto. </a>
+Para visualizar nosso projeto em funcionamento, segue o link:<a href="https://youtu.be/IlACLLbXybs"> Projeto. </a>
 
 ## Contatos
 Bruno Kenzo Sakemi - TIA: 31945600 - email: 31945600@mackenzista.com.br <br>
