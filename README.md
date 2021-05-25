@@ -24,6 +24,10 @@ Fizemos também o uso do Protocolo Firmata para podermos utilizar o software Nod
 
 
 ## Interfaces, Protocolos e Módulos de comunicação:
+Através do Protocolo Firmata por meio do software Node-RED tentamos fazer nosso projeto funcionar, porém ele não respondia.<br>
+### Standard Firmata
+### Node-RED
+###Código Arduino IDE
 
 ## YouTube
 Para visualizar nosso projeto em funcionamento, segue o link:<a href="https://www.arduino.cc/en/software"> Projeto. </a>
